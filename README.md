@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="./header_ace.png" width="500" alt="Ace Header">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=HI%2C+I'M+NAIMISH+SINGH;THE+ACE+OF+AI+AGENTS;FAST.+ADAPTIVE.+IMPENETRABLE." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Full Stack AI Developer | AI & ML Engineer | 21rd Century Architect</b>
+  <b>Full Stack AI Developer | AI Engineer | Perfectionist </b>
 </p>
 
 ---
@@ -27,7 +25,7 @@
 *A window into the system at 00:30.*
 
 1. **The Ace Alias**: Why `ace-ify`? Pushing for top-tier engineering in every line of code.
-2. **00:30 Routine**: My prime uptime. When the world sleeps, the agents wake up.
+2. **00:30 Routine**: My prime uptime. When the world sleeps, my agents wake up.
 3. **Founder of Future**: Leading a tech initiative to bridge the gap between present and future.
 4. **Guardial**: My sentinel for AI security—detecting jailbreaks before they happen.
 5. **Farm2Market**: Engineering AgriTech to simplify the journey from farm to plate.
